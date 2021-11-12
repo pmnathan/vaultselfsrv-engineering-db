@@ -1,0 +1,13 @@
+{ "user_name" : "Prakash_manglanathan",
+  "assignments" : [{ "dbname" :  "eng1db",
+            "role"    : "read_only"},
+             
+             { "dbname" :  "eng2db",
+            "role"    : "read_write"},
+                   
+            { "dbname" :  "eng3db",
+            "role"    : "admin"}]
+}
+                   
+                   
+                   
