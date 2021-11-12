@@ -19,7 +19,6 @@
             "role": "demo",
             "creation_statement" : "CREATE USER '{{name}}'@'%' IDENTIFIED BY '{{password}}';GRANT SELECT ON *.* TO '{{name}}'@'%';",
             "approvedusers": [
-                "prakash_manglanathan",
                 "dean_richardson"
             ]
         }
